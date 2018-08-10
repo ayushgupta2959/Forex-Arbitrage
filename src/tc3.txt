@@ -1,0 +1,5 @@
+4
+Australian_Dollar 1 15.54 87.65 1.22
+Argentine_Peso 0.064 1 5.64 0.079
+Pakistan_Rupee 00.011 0.18 1 0.014
+Bulgarian_Lev 0.82 12.71 71.69 1
